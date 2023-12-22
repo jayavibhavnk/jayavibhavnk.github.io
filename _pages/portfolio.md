@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Achievements
+Link to all certificates, [certificates](https://drive.google.com/drive/folders/10X43lOTRIdKJoxvLw9MSRioL5-zcrCRS?usp=drive_link)
 
 1) Head of Editorial committee, Department of Artificial Intelligence and Machine Learning, New Horizon College of Engineering. (2021-2022)
 
@@ -29,13 +30,10 @@ author_profile: true
 
 11) Winner of Ur-Hackathon 3.0, 2023, RV University, Bangalore.
 
-12) Certificate of appreciation by New Horizon Research and Development Cell for publishing 3 Patents and participating in Government schemes and events for research and development, 2023.
+12) Certificate of Appreciation for conducting a workshop on "Introduction to Blockchain", 2023.
 
-13) Certificate of Appreciation for conducting a workshop on "Introduction to Blockchain", 2023.
-
-14) Top 10 projects in "Stranger Hacks GPT era" national level hackathon by devfolio, 2023.
-
-    Link to all certificates, [certificates](https://drive.google.com/drive/folders/10X43lOTRIdKJoxvLw9MSRioL5-zcrCRS?usp=drive_link)
+13) Top 10 projects in "Stranger Hacks GPT era" national level hackathon by devfolio, 2023.
+    
 
 ## Certificates
 
