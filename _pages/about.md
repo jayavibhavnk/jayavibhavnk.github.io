@@ -12,4 +12,23 @@ redirect_from:
 
 🔬 My research interests are generative AI and Natural Language Processing.
 
+## Experience
 
+Currently working part-time as an AI Intern at [Sparkflows](https://sparkflows.io). Working on the generative AI platform, developing methods for efficient integration of LLMs into various products and businesses.
+
+## Selected Projects
+
+1) **Tl;DWR** - A mulitlingual browser extension which can summarise YouTube videos, playlists, websites, and more. Try it out at [Tl:DWR](https://chromewebstore.google.com/detail/tldwr/ddildclhomjgjkggmjjdaboebkmoogbn) .
+2) **Blogify.ai** - A blog sharing platform powered by generative AI. Try it out at [BLogify](https://blogify-ai.netlify.app/), for LLM powered blog generator try out [blogify-LLM](https://blogify.streamlit.app/) .
+
+Check out my other projects - [Projects](https://jayavibhavnk.github.io//projects/)
+
+## Recent Achievements
+
+- **Winner of Vectara Hackathon** hosted by Lablab.ai, Project link - [LAW-BUDDY-IO](https://lablab.ai/event/rag-llms-with-your-data/prometheus/law-io-buddy) .
+
+## Currently Researching
+
+- Boosting LLM RAGs using graph neural networks.
+- Image Search Engine using vector databases.
+- Multimodal LLMs and agents.
