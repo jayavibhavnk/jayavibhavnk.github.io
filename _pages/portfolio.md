@@ -5,6 +5,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+## Platforms
+- [Huggingface](https://huggingface.co/jayavibhav) - Machine learning models and datasets.
+- [Devfolio](https://devfolio.co/@jayavibhavnk) - Hackathons and Projects.
+- [Github](https://github.com/jayavibhavnk) - Project repositories.
+
 ## Achievements
 Link to all certificates, [certificates](https://drive.google.com/drive/folders/10X43lOTRIdKJoxvLw9MSRioL5-zcrCRS?usp=drive_link)
 
