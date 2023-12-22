@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+#### *Links may get disabled due to inactivity, please contact my on my email if you are unable to access links*
+
 ## Platforms
 - [Huggingface](https://huggingface.co/jayavibhav) - Machine learning models and datasets.
 - [Devfolio](https://devfolio.co/@jayavibhavnk) - Hackathons and Projects.
