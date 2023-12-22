@@ -12,14 +12,12 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
-        
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
+  - title: "Projects"
+    url: /project/
+
   - title: "CV"
     url: /files/rezume_latest-8.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
