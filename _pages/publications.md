@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+#### *Links may get disabled due to inactivity, please contact my on my email if you are unable to access links*
 
 ## Currently Researching
 
@@ -11,6 +12,12 @@ author_profile: true
 - Image Search Engine using vector databases.
 - Multimodal LLMs and agents.
 - LLM fine-tuning.
+
+## Research and Innovation
+
+- Certificate of appreciation by New Horizon Research and Development Cell for publishing 3 Patents and participating in Government schemes and events for research and development, 2023.
+- Project "TL;DWR" selected for government scheme, YUKTI (National Innovation Repository).  
+- [Patent](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN396260139&_cid=P12-LIFY7I-88034-1) selected for KAPILA government scheme for IP filing.
 
 ## Research Papers
 
