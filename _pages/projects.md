@@ -11,142 +11,26 @@ author_profile: true
 <!-- Add your project title and description above this line -->
 
 ### Blogify.ai
-<table>
-  <tr>
-    <td><img src="images/blogifyy.png" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+| <img src="/images/blogifyy.png" alt="Image Description" width = "1200"> | Blogify.ai is a blog sharing platform powered by generative AI. This platform generates AI generated images for your blog and provides multiple analytics such as Sentiment Analysis and Keywords.  | [link](https://blogify-ai.netlify.app/) |
+| ------------- |:-------------:| -----:|
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+### Blogify.ai
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+| <img src="/images/blogifyy.png" alt="Image Description" width = "1200"> | Blogify.ai is a blog sharing platform powered by generative AI. This platform generates AI generated images for your blog and provides multiple analytics such as Sentiment Analysis and Keywords.  | [link](https://blogify-ai.netlify.app/) |
+| ------------- |:-------------:| -----:|
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+### Blogify.ai
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+| <img src="/images/blogifyy.png" alt="Image Description" width = "1200"> | Blogify.ai is a blog sharing platform powered by generative AI. This platform generates AI generated images for your blog and provides multiple analytics such as Sentiment Analysis and Keywords.  | [link](https://blogify-ai.netlify.app/) |
+| ------------- |:-------------:| -----:|
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+### Blogify.ai
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+| <img src="/images/blogifyy.png" alt="Image Description" width = "1200"> | Blogify.ai is a blog sharing platform powered by generative AI. This platform generates AI generated images for your blog and provides multiple analytics such as Sentiment Analysis and Keywords.  | [link](https://blogify-ai.netlify.app/) |
+| ------------- |:-------------:| -----:|
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
+### Blogify.ai
 
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
+| <img src="/images/blogifyy.png" alt="Image Description" width = "1200"> | Blogify.ai is a blog sharing platform powered by generative AI. This platform generates AI generated images for your blog and provides multiple analytics such as Sentiment Analysis and Keywords.  | [link](https://blogify-ai.netlify.app/) |
+| ------------- |:-------------:| -----:|
