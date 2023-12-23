@@ -16,9 +16,10 @@ author_profile: true
 | ------------- |:-------------:| -----:|
 
 ### TL;DWR
-
-| <img src="/images/tldwr.png" alt="Image Description" width = "1200"> |  The extension incorporates summarization, translation and preemptive searching capabilities to provide a gist(short summary or disclaimers) of websites, youtube videos, playlists, foreign videos and websites and can check for explicit content in websites. Users can refer the summary and instantly access the crux of the topic regardless of linguistic differences.  | [link](https://chromewebstore.google.com/detail/tldwr/ddildclhomjgjkggmjjdaboebkmoogbn?) |
+|  |  |  |
 | ------------- |:-------------:| -----:|
+| <img src="/images/tldwr.png" alt="Image Description" width = "1200"> |  The extension incorporates summarization, translation and preemptive searching capabilities to provide a gist(short summary or disclaimers) of websites, youtube videos, playlists, foreign videos and websites and can check for explicit content in websites. Users can refer the summary and instantly access the crux of the topic regardless of linguistic differences.  | [link](https://chromewebstore.google.com/detail/tldwr/ddildclhomjgjkggmjjdaboebkmoogbn?) |
+
 
 ### Blogify.ai
 
