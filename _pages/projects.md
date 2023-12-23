@@ -10,10 +10,10 @@ author_profile: true
 
 <!-- Add your project title and description above this line -->
 
-### Project Title
+### Blogify.ai
 <table>
   <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
+    <td><img src="images/Screenshot 2023-12-23 at 2.09.41 PM.png" alt="Image Description" width="250"></td>
     <td>
       <!-- Add your image description here -->
       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
