@@ -81,7 +81,7 @@ author_profile: true
     </td>
   </tr>
       <tr>
-    <td><b>Ai generated text clasifier</b></td>
+    <td><b>AI generated text clasifier</b></td>
     <td><img src="/images/aigenclass.png" alt="Image Description"></td>
     <td>
       Classify AI generated Text using 5 different models trained on a custom dataset.
