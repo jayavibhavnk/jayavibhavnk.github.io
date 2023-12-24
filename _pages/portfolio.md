@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
 
 #### *Links may get disabled due to inactivity, please contact my on my email if you are unable to access them*
 
