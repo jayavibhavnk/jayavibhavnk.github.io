@@ -70,8 +70,19 @@ author_profile: true
     </td>
   </tr>
       <tr>
-    <td><b>Blogify.ai</b></td>
-    <td><img src="/images/blogifyy.png" alt="Image Description"></td>
+    <td><b>Brainzy</b></td>
+    <td><img src="/images/brainzy.jpeg" alt="Image Description"></td>
+    <td>
+      Discover a smarter way to learn with Brainzy! Use mind maps, short summaries, and an AI chatbot for a more engaging and efficient online learning experience.
+    </td>
+    <td>
+      <a href="https://brainzy.streamlit.app/">Streamlit-demo</a>
+      <a href="https://lablab.ai/event/llama-2-hackathon-with-clarifai/prometheus/brainzy">Link</a>
+    </td>
+  </tr>
+      <tr>
+    <td><b>Blogchain.ai</b></td>
+    <td><img src="/" alt="Image Description"></td>
     <td>
       <!-- Add your image description here -->
       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
@@ -82,27 +93,13 @@ author_profile: true
     </td>
   </tr>
       <tr>
-    <td><b>Blogify.ai</b></td>
-    <td><img src="/images/blogifyy.png" alt="Image Description"></td>
+    <td><b>Ai generated text clasifier</b></td>
+    <td><img src="/images/aigenclass.png" alt="Image Description"></td>
     <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
+      Classify AI generated Text using 5 different models trained on a custom dataset.
     </td>
     <td>
-      <a href="https://blogify-ai.netlify.app/">Link</a>
-    </td>
-  </tr>
-      <tr>
-    <td><b>Blogify.ai</b></td>
-    <td><img src="/images/blogifyy.png" alt="Image Description"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      <a href="https://blogify-ai.netlify.app/">Link</a>
+      <a href="https://ai-text-classification.streamlit.app/">Link</a>
     </td>
   </tr>
 </table>
