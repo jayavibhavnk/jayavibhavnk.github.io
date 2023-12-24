@@ -81,18 +81,6 @@ author_profile: true
     </td>
   </tr>
       <tr>
-    <td><b>Blogchain.ai</b></td>
-    <td><img src="/" alt="Image Description"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      <a href="https://blogify-ai.netlify.app/">Link</a>
-    </td>
-  </tr>
-      <tr>
     <td><b>Ai generated text clasifier</b></td>
     <td><img src="/images/aigenclass.png" alt="Image Description"></td>
     <td>
