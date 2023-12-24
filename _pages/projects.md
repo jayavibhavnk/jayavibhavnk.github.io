@@ -7,145 +7,34 @@ author_profile: true
 
 #### *Links may get disabled due to inactivity, please contact my on my email if you are unable to access them*
 
-
-<!-- Add your project title and description above this line -->
-
-### Project Title
 <table>
   <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
+    <th><b>Project</b></th>
+    <th><b>Image</b></th>
+    <th><b>Description</b></th>
+    <th><b>Project Link</b></th>
+  </tr>
+  <tr>
+    <td><b>Blogify.ai</b></td>
+    <td><img src="/images/blogifyy.png" alt="Image Description"></td>
     <td>
       <!-- Add your image description here -->
       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
     </td>
     <td>
-      Link
+      <a href="https://blogify-ai.netlify.app/">Link</a>
     </td>
   </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
+    <tr>
+    <td><b>Blogify.ai</b></td>
+    <td><img src="/images/blogifyy.png" alt="Image Description"></td>
     <td>
       <!-- Add your image description here -->
       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
+       This is a description of your image. You can provide details about what the image represents, its purpose, etc.
     </td>
     <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
-    </td>
-  </tr>
-</table>
-
-### Project Title
-<table>
-  <tr>
-    <td><img src="path/to/your/image.jpg" alt="Image Description" width="250"></td>
-    <td>
-      <!-- Add your image description here -->
-      This is a description of your image. You can provide details about what the image represents, its purpose, etc.
-    </td>
-    <td>
-      Link
+      <a href="https://blogify-ai.netlify.app/">Link</a>
     </td>
   </tr>
 </table>
