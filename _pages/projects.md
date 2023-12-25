@@ -118,4 +118,14 @@ author_profile: true
       <a href="https://github.com/jayavibhavnk/Gesture-recognition-using-machine-learning">Link</a>
     </td>
   </tr>
+    <tr>
+    <td><b>Ampyfy: Music generation using gestures</b></td>
+    <td><img src="/images/Ampyfy.png" alt="Image Description"></td>
+    <td>
+      Use hand gestures to compose music on a virtual launchpad.
+    </td>
+    <td>
+      <a href="">Link</a>
+    </td>
+  </tr>
 </table>
