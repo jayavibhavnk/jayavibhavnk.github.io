@@ -128,4 +128,24 @@ author_profile: true
       <a href="">Link</a>
     </td>
   </tr>
+      <tr>
+    <td><b>PDFGPT: Chat with your PDFs</b></td>
+    <td><img src="/images/pdfgpt.jpeg" alt="Image Description"></td>
+    <td>
+      Chat with your PDFs using Large Language Models such as GPT4 or LLama-2.
+    </td>
+    <td>
+      <a href="https://pdfgptv2-1-d5216588.deta.app/">Link</a>
+    </td>
+  </tr>
+        <tr>
+    <td><b>WEBGPT: Chat with the website</b></td>
+    <td><img src="/images/webgpt.png" alt="Image Description"></td>
+    <td>
+      Chat with websites using Large Language Models such as GPT4 or LLama-2 using a browser extension. Also find similar content on webpages using similarity search.
+    </td>
+    <td>
+      <a href="">Link</a>
+    </td>
+  </tr>
 </table>
