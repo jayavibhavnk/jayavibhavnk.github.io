@@ -88,4 +88,34 @@ author_profile: true
       <a href="https://ai-text-classification.streamlit.app/">Link</a>
     </td>
   </tr>
+        <tr>
+    <td><b>WorkoutWizard.air</b></td>
+    <td><img src="/images/workoutwizard.png" alt="Image Description"></td>
+    <td>
+      WorkoutWizard is a fitness monitoring platform powered by AI. It tracks the user's nutrition, diet, generates workout recommendations and plans and most importantly tracks user's posture using a camera.
+    </td>
+    <td>
+      <a href="https://github.com/Coding-Ghostman/fitness">Link</a>
+    </td>
+  </tr>
+      <tr>
+    <td><b>Image Captioning</b></td>
+    <td><img src="/images/imagecaptioning.png" alt="Image Description"></td>
+    <td>
+      Generate captions for you image using a custom DL model.
+    </td>
+    <td>
+      <a href="https://image-caption.streamlit.app/">Link</a>
+    </td>
+  </tr>
+        <tr>
+    <td><b>Gesture Recognition for computer navigation</b></td>
+    <td><img src="/images/hand_gesture.png" alt="Image Description"></td>
+    <td>
+      Using hand gestures to navigate and control computers wihtout physical devices. Uses an LSTM neural network along with mediapipe for hand tracking.
+    </td>
+    <td>
+      <a href="https://github.com/jayavibhavnk/Gesture-recognition-using-machine-learning">Link</a>
+    </td>
+  </tr>
 </table>
