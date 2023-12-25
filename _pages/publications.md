@@ -13,6 +13,13 @@ author_profile: true
 - Multimodal LLMs and agents.
 - LLM fine-tuning.
 
+## Research Experience
+
+- Research Assistant under Professor and Head, Dr. N V Uma Reddy. (Oct 2022 - March 2023)
+  - Worked on Gesture Recognition and Image Captioning.   
+- Research Assistant under Professor, Dr Sreejith S. (June 2023 - July 2023)
+  - Worked on fine-tuning Transformer models.    
+
 ## Research and Innovation
 
 - Certificate of appreciation by New Horizon Research and Development Cell for publishing 3 Patents and participating in Government schemes and events for research and development, 2023.
