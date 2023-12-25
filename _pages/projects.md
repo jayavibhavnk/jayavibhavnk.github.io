@@ -89,7 +89,7 @@ author_profile: true
     </td>
   </tr>
         <tr>
-    <td><b>WorkoutWizard.air</b></td>
+    <td><b>WorkoutWizard.ai</b></td>
     <td><img src="/images/workoutwizard.png" alt="Image Description"></td>
     <td>
       WorkoutWizard is a fitness monitoring platform powered by AI. It tracks the user's nutrition, diet, generates workout recommendations and plans and most importantly tracks user's posture using a camera.
@@ -109,7 +109,7 @@ author_profile: true
     </td>
   </tr>
         <tr>
-    <td><b>Gesture Recognition for computer navigation</b></td>
+    <td><b>Gesture Recognition</b></td>
     <td><img src="/images/hand_gesture.png" alt="Image Description"></td>
     <td>
       Using hand gestures to navigate and control computers wihtout physical devices. Uses an LSTM neural network along with mediapipe for hand tracking.
@@ -119,7 +119,7 @@ author_profile: true
     </td>
   </tr>
     <tr>
-    <td><b>Ampyfy: Music generation using gestures</b></td>
+    <td><b>Ampyfy</b></td>
     <td><img src="/images/Ampyfy.png" alt="Image Description"></td>
     <td>
       Use hand gestures to compose music on a virtual launchpad.
@@ -129,7 +129,7 @@ author_profile: true
     </td>
   </tr>
       <tr>
-    <td><b>PDFGPT: Chat with your PDFs</b></td>
+    <td><b>PDFGPT</b></td>
     <td><img src="/images/pdfgpt.jpeg" alt="Image Description"></td>
     <td>
       Chat with your PDFs using Large Language Models such as GPT4 or LLama-2.
@@ -139,7 +139,7 @@ author_profile: true
     </td>
   </tr>
         <tr>
-    <td><b>WEBGPT: Chat with the website</b></td>
+    <td><b>WEBGPT</b></td>
     <td><img src="/images/webgpt.png" alt="Image Description"></td>
     <td>
       Chat with websites using Large Language Models such as GPT4 or LLama-2 using a browser extension. Also find similar content on webpages using similarity search.
