@@ -19,7 +19,7 @@ Currently working part-time as an AI Intern at [Sparkflows](https://sparkflows.i
 ## Selected Projects
 
 - **Tl;DWR** - A mulitlingual browser extension which can summarise YouTube videos, playlists, websites, and more. Try it out at [Tl:DWR](https://chromewebstore.google.com/detail/tldwr/ddildclhomjgjkggmjjdaboebkmoogbn).
-- **Blogify.ai** - A blog sharing platform powered by generative AI. Try it out at [BLogify](https://blogify-ai.netlify.app/), for LLM powered blog generator try out [blogify-LLM](https://blogify.streamlit.app/).
+- **Blogify.ai** - A blog sharing platform powered by generative AI. Try it out at [Blogify](https://blogify-ai.netlify.app/), for LLM powered blog generator try out [blogify-LLM](https://blogify.streamlit.app/).
 - **Brainzy** - Mindmaps and notes generator, [Brainzy](https://brainzy.streamlit.app/)
 
 Check out my other projects - [Projects](https://jayavibhavnk.github.io//projects/).
