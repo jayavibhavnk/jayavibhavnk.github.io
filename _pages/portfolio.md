@@ -12,6 +12,10 @@ author_profile: true
 - [Devfolio](https://devfolio.co/@jayavibhavnk) - Hackathons and Projects.
 - [Github](https://github.com/jayavibhavnk) - Project repositories.
 
+## Experience
+- Artificial Intelligence Intern - Sparkflows (July 2023 - *Present*) *(Currently working Part-time)*
+- Data Analyst Intern - Teksystems (Sept 2022 - Oct 2022)
+
 ## Achievements
 Link to all certificates, [certificates](https://drive.google.com/drive/folders/10X43lOTRIdKJoxvLw9MSRioL5-zcrCRS?usp=drive_link)
 
