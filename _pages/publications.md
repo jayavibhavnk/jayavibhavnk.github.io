@@ -51,6 +51,13 @@ Project link - [project](https://ai-text-classification.streamlit.app/)
 *All models and datasets available on my huggingface account.*
 
 
+## Patents
 
+- Published Patent on GESTURE CONTROLLED INTERACTIVE MUSIC COMPOSITION SYSTEM WITH THE CAPABILITY OF AUTOMATIC COMPOSITION.
+  <br>Publication Number - 202341020857, 2023.<br>
+  [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN396260139&_cid=P12-LIFY7I-88034-1)
+  
+- Published Patent on REAL TIME HAND GESTURE RECOGNITION BASED ALTERNATE COMPUTER NAVIGATION USING FACE AUTHORISATION FOR REMOTE COMPUTER ACCESS.
+  <br>Publication Number - 20234100745, 2023.<br>
+  [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN393021434&_cid=P12-LIFYB1-89164-1)
 
-   
