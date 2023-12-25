@@ -10,7 +10,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a final year Undergraduate student at the New Horizon College of Engineering.
 
-🔬 My research interests are generative AI and Natural Language Processing.
+🔬 My research interests are Generative AI and Natural Language Processing.
 
 ## Experience
 
