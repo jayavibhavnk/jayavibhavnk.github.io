@@ -25,7 +25,7 @@ Currently working part-time as an AI Intern at [Sparkflows](https://sparkflows.i
 Check out my other projects - [Projects](https://jayavibhavnk.github.io//projects/).
 
 ## News
-- ***New*** Fine-tuned LLama-2-7B LLM to generate text in Kannada. Fine-tuned on Kannada translated version of LIMA.
+- (***New***) Fine-tuned LLama-2-7B LLM to generate text in Kannada. Fine-tuned on Kannada translated version of LIMA.
   [Model](https://huggingface.co/jayavibhav/Llama-2-Kannada), [Dataset](https://huggingface.co/datasets/jayavibhav/LIMA-Kannada).
 - November, 2023 - **Winner of Vectara Hackathon** hosted by Lablab.ai, Project link - [LAW-BUDDY-IO](https://lablab.ai/event/rag-llms-with-your-data/prometheus/law-io-buddy).
 - September, 2023 - Research paper on "Visual Attention based Image Captioning" accepted in IEEE, MRTM conference. 
