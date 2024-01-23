@@ -14,7 +14,7 @@ redirect_from:
 
 ## Experience
 
-Currently working part-time as an AI Intern at [Sparkflows](https://sparkflows.io). Working on the generative AI platform, developing methods for efficient integration of LLMs into various products and businesses.
+Currently working full-time as an AI Intern at [Sparkflows](https://sparkflows.io). Working on the generative AI platform, developing methods for efficient integration of LLMs into various products and businesses.
 
 ## Selected Projects
 
