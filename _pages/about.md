@@ -32,6 +32,7 @@ Check out my other projects - [Projects](https://jayavibhavnk.github.io//project
 
 ## Currently Researching
 
+- Automatic Prompt Engineering (based on [APE](https://sites.google.com/view/automatic-prompt-engineer))
 - Boosting LLM RAGs using graph neural networks.
 - Image Search Engine using vector databases.
 - Multimodal LLMs and agents.
