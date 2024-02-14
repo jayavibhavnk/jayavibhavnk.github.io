@@ -25,6 +25,7 @@ Currently working full-time as an AI Intern at [Sparkflows](https://sparkflows.i
 Check out my other projects - [Projects](https://jayavibhavnk.github.io//projects/).
 
 ## News
+- 7th semester [results](https://drive.google.com/file/d/1Bjt0wRgBWxOy_u7JHuNxbtzD8akeEF4Q/view?usp=sharing) - 9.62 Semester GPA. 
 - (***New***) Fine-tuned LLama-2-7B LLM to generate text in Kannada. Fine-tuned on Kannada translated version of LIMA.
   [Model](https://huggingface.co/jayavibhav/Llama-2-Kannada), [Dataset](https://huggingface.co/datasets/jayavibhav/LIMA-Kannada).
 - November, 2023 - **Winner of Vectara Hackathon** hosted by Lablab.ai, Project link - [LAW-BUDDY-IO](https://lablab.ai/event/rag-llms-with-your-data/prometheus/law-io-buddy).
