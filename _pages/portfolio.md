@@ -13,7 +13,7 @@ author_profile: true
 - [Github](https://github.com/jayavibhavnk) - Project repositories.
 
 ## Experience
-- Artificial Intelligence Intern - Sparkflows (July 2023 - *Present*) *(Currently working Part-time)*
+- Artificial Intelligence Intern - Sparkflows (July 2023 - *Present*) 
 - Data Analyst Intern - Teksystems (Sept 2022 - Oct 2022)
 
 ## Achievements
