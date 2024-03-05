@@ -17,7 +17,7 @@ author_profile: true
 - Data Analyst Intern - Teksystems (Sept 2022 - Oct 2022)
 
 ## Achievements
-Link to all certificates, [certificates](https://drive.google.com/drive/folders/10X43lOTRIdKJoxvLw9MSRioL5-zcrCRS?usp=drive_link)
+Link to all certificates, [certificates](https://drive.google.com/drive/folders/1HzU5RMo-VAXITm3avPD4dtLctg9lZmgv?usp=sharing)
 
 1) Head of Editorial committee, Department of Artificial Intelligence and Machine Learning, New Horizon College of Engineering. (2021-2022)
 
