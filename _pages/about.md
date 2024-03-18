@@ -38,4 +38,4 @@ Check out my other projects - [Projects](https://jayavibhavnk.github.io//project
 - Image Search Engine using vector databases.
 - Multimodal LLMs and agents.
 
-<img src="https://t.bkit.co/w_65f7f7a66a3e7.gif" />
+<img src="https://t.bkit.co/w_65f7f8b399cf7.gif" />
