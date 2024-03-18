@@ -38,6 +38,9 @@ Check out my other projects - [Projects](https://jayavibhavnk.github.io//project
 - Image Search Engine using vector databases.
 - Multimodal LLMs and agents.
 
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-42f50e05-14b5-4e07-94fa-35883ffcd693" data-elfsight-app-lazy></div>
+
 <br>
 <br>
 <br>
