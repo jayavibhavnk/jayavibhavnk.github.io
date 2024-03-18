@@ -38,43 +38,9 @@ Check out my other projects - [Projects](https://jayavibhavnk.github.io//project
 - Image Search Engine using vector databases.
 - Multimodal LLMs and agents.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ![Visitor Count](https://profile-counter.glitch.me/{jayavibhavnknew1}/count.svg)
