@@ -37,3 +37,5 @@ Check out my other projects - [Projects](https://jayavibhavnk.github.io//project
 - Boosting LLM RAGs using graph neural networks.
 - Image Search Engine using vector databases.
 - Multimodal LLMs and agents.
+
+<img src="https://t.bkit.co/w_65f7f7a66a3e7.gif" />
