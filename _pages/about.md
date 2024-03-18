@@ -76,5 +76,4 @@ Check out my other projects - [Projects](https://jayavibhavnk.github.io//project
 
 
 
-
- ![Visitor Count](https://profile-counter.glitch.me/{jayavibhavnknew1}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{jayavibhavnknew1}/count.svg) -->
