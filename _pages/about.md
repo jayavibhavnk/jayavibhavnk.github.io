@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a final year Undergraduate student at the New Horizon College of Engineering.
+👨🏻‍💻 I'm a Master's Student at University of Southern California (Computer Science - AI)
 
 🔬 My research interests are Generative AI and Natural Language Processing.
 
 ## Experience
 
-Currently working full-time as an AI Intern at [Sparkflows](https://sparkflows.io). Working on the generative AI platform, developing methods for efficient integration of LLMs into various products and businesses.
+Previosuly working as full-time AI Intern at [Sparkflows](https://sparkflows.io). Working on the generative AI platform, developing methods for efficient integration of LLMs into various products and businesses.
 
 ## Selected Projects
 
