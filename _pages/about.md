@@ -23,7 +23,7 @@ Previosuly working as full-time AI Intern at [Sparkflows](https://sparkflows.io)
 
 ## Selected Projects
 
-- **GRAEL** - Graph Retrieval and Augmentation for Education and Learning, A platform which has 10+ tools to simply learning using generative AI and custom graph retrieval library. [GRAEL(https://grael.netlify.app/)
+- **GRAEL** - Graph Retrieval and Augmentation for Education and Learning, A platform which has 10+ tools to simply learning using generative AI and custom graph retrieval library. [GRAEL](https://grael.netlify.app/)
 - **Tl;DWR** - A mulitlingual browser extension which can summarise YouTube videos, playlists, websites, and more. Try it out at [Tl:DWR](https://chromewebstore.google.com/detail/tldwr/ddildclhomjgjkggmjjdaboebkmoogbn).
 - **Blogify.ai** - A blog sharing platform powered by generative AI. Try it out at [Blogify](https://blogify-ai.netlify.app/), for LLM powered blog generator try out [blogify-LLM](https://blogify.streamlit.app/).
 - **Brainzy** - Mindmaps and notes generator, [Brainzy](https://brainzy.streamlit.app/)
