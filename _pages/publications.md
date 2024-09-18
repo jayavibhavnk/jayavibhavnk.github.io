@@ -9,9 +9,9 @@ author_profile: true
 ## Currently Researching
 
 - Boosting LLM RAGs using graph neural networks.
-- Image Search Engine using vector databases.
 - Multimodal LLMs and agents.
 - LLM fine-tuning.
+- AI Governance
 
 ## Research Experience
 
