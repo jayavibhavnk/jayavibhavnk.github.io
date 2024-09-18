@@ -18,8 +18,8 @@ Previosuly working as full-time AI Intern at [Sparkflows](https://sparkflows.io)
 
 ## My Open-Soure Libraries
 
-- GraphRetrieval - https://pypi.org/project/GraphRetrieval/
-- Multimodal GraphRetrieval - https://pypi.org/project/MultimodalGraphRetrieval/
+- [GraphRetrieval](https://pypi.org/project/GraphRetrieval/)
+- [Multimodal GraphRetrieval](https://pypi.org/project/MultimodalGraphRetrieval/)
 
 ## Selected Projects
 
@@ -44,4 +44,3 @@ Check out my other projects - [Projects](https://jayavibhavnk.github.io/projects
 - Boosting LLM RAGs using graph neural networks.
 - Multimodal LLMs and agents.
 
-<img src="https://t.bkit.co/w_65f7f8b399cf7.gif" />
